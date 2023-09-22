@@ -1,0 +1,423 @@
+
+
+
+
+COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT Accompanying the Communication from the Commission to the European Parliament and the Council - An Action Plan to strengthen the fight against tax fraud and tax evasion the Commission Recommendation regarding measures intended to encourage third countries to apply minimum standards of good governance in tax matters the Commission Recommendation on aggressive tax planning /* SWD/2012/0403 final */
+
+
+
+
+
+
+Annex 14
+Glossary
+   ||   
+   ||   
+ abuse of law   || The law is formally complied with but in a way that is not compatible with its spirit; 
+ anti-abuse measures || Term used in the context of measures intended to combat the avoidance of tax. Such measures may be of general application, e.g. in the form of a general anti-avoidance rule, or aimed at specific transactions or situations, e.g. exit tax on emigration, or in a value added tax context. They may be based on unwritten legal principles, legislation, or tax treaties. 
+ base erosion and profit shifting || Erosion of tax base 
+ beneficial ownership || The term beneficial ownership is often used in contrast to legal ownership, where ownership rights are split, the latter referring to the more formal attributes, such as registration, etc. While the concept may be compared with similar concepts in civil law countries based on economic ownership, the latter may be distinguished in that the related rights are typically contractual in nature while a beneficial owner may, in general, also enforce his rights against third parties. Beneficial ownership is often used in conjunction with the term equitable ownership. While the two expressions appear to have similar meanings, it is not clear that they may always be used interchangeably. In an international context the term is most commonly encountered in tax treaties as one of the preconditions to treaty entitlement in respect of, e.g. dividends, interest and royalties. For example, it has been argued that a conduit company cannot be a beneficial owner. It has also been suggested that beneficial ownership implies control over the capital from which the income is derived and/or control over the disposition of the income itself. Another view focuses on whether the payment is received for the recipient’s own benefit. In a wider sense it has been suggested that the term should be interpreted in accordance with its function of excluding entities interposed solely for the purpose of enjoying treaty benefits that would otherwise not have been available. 
+ Common Consolidate Corporate Tax Base (CCCTB) || The European Commission on 16 March 2011 proposed a common system for calculating the tax base of businesses operating in the EU. The proposed Common Consolidated Corporate Tax Base (CCCTB), would mean that companies would benefit from a "one-stop-shop" system for filing their tax returns and would be able to consolidate all the profits and losses they incur across the EU. Member States would maintain their full sovereign right to set their own corporate tax rate.   
+ clause on good governance in the tax area || A clause on good tax governance (promoting transparency, exchange of information and transparency)  introduced in relevant agreements between the EU and third countries 
+ clauses on limitation of benefits || Provision that may be included in a tax treaty to prevent treaty shopping, e.g. through the use of a conduit company. Such provisions may limit benefits to companies that have a certain minimum level of local ownership (“look through approach”), deny benefits to companies that benefit from a privileged tax regime (“exclusion approach”) or that are not subject to tax in respect of the income in question (“subject-to-tax approach”), or that pay on more than a certain proportion of the income in tax-deductible form (“channel approach” or “base erosion rule”). 
+ compliance burdens || Costs caused by the procedural and administrative actions needed to satisfy a taxpayer‘s obligations under the applicable tax rules. 
+ conduit companies || A “conduit company” may be defined as a company that is entitled to the benefits of a tax treaty in respect of income arising in a foreign country, the economic benefit of which income accrues to persons in another country who would not have been entitled to such treaty benefits had they received the income directly. This may be achieved by, e.g. the conduit company lending the income to those persons, reinvestment of the income for their ultimate benefit, or distribution by way of a (tax-exempt) dividend. A conduit company is generally subject to no or minimal taxation under its domestic laws or by reason of the income being on-paid in a tax-deductible form (typically leaving a small taxable “spread” in the conduit company). Tax treaties increasingly contain a limitation on benefits provision that is specifically aimed at preventing their improper use through conduit companies. 
+ corporate tax || Tax on the income of companies. In many countries, income of companies for these purposes includes capital gains. 
+ direct taxation || A direct tax is one imposed upon an individual person (juristic or natural) or on property, as distinct from a tax imposed upon a transaction (indirect taxation). 
+ double non taxation || It occurs when cross-border companies escape paying taxes. Thus double non-taxation deprives States of significant revenues and creates unfair competition between businesses. 
+ double tax conventions   || Term generally used to denote an agreement between two (or more) countries for the avoidance of double taxation. In fact there are various types of tax treaty of which the most common are treaties for the avoidance of double taxation of income and capital (usually known as a comprehensive income tax treaty). Such treaties are also commonly expressed to be aimed at the prevention of fiscal evasion. In avoiding double taxation, such treaties also provide for the distribution between the treaty partners of the rights to tax, which rights may either be exclusive or shared between the treaty partners. Measures in such treaties to prevent tax evasion typically include exchange of information provisions and other forms of mutual assistance. Such treaties are generally entered into in order to facilitate international commerce and investment. 
+ double taxation || Double taxation is traditionally divided into two kinds, juridical double taxation and economic double taxation. Juridical double taxation may be described as the imposition of comparable taxes by two (or more) tax jurisdictions on the same taxpayer in respect of the same taxable income or capital. Economic double taxation may be described as the imposition of comparable taxes by two (or more) tax jurisdictions on different taxpayers in respect of the same taxable income. Double taxation may be domestic, i.e. where taxes are imposed within a sovereign state by different taxing authorities (e.g. by different members of a federation), or international, i.e. where taxes are imposed by different sovereign states. 
+ EU Code of Conduct Group || The Code of Conduct for business taxation was set out in the conclusions of the Council of Economics and Finance Ministers (ECOFIN) of 1 December 1997. The Code is not a legally binding instrument but it clearly does have political force. By adopting this Code, the Member States have undertaken to roll back existing tax measures that constitute harmful tax competition and refrain from introducing any such measures in the future ("standstill"). The EU's Finance Ministers established the Code of Conduct Group (Business Taxation) at a Council meeting on 9 March 1998 to assess the tax measures that may fall within the scope of the Code of Conduct for business taxation.   
+  Tax Identification Number || Most countries use a Tax Identification Number (TIN) to identify taxpayers and facilitate the administration of their national tax affairs. TINs are also useful for identifying taxpayers who invest in other EU countries and are more reliable than other identifiers such as name and address. 
+ EU Tax Identification Number || In order to facilitate the work of all stakeholders and ensure an effective and efficient tax administration, enforcement and collection, the European Commission suggests studying the possibility to coming forward with a EU TIN (see Tax Identification Number) allocated to all taxpayers (both individuals and companies or assimilated legal structures) engaged in cross-border operations. This EU TIN would be ruled by common rules with regards to its issuance, use and reporting. 
+ EUROFISC || EUROFISC is a mechanism provided for Member States to enhance their administrative cooperation in combating organised VAT fraud and especially carousel fraud. EUROFISC allows for quick and targeted sharing of information between all Member States on fraudulent activities. 
+ fair tax competition || Is the contrary of harmful tax competition Harmful tax competition generally takes the form of special tax regimes or incentives offered by countries in order to maintain an internationally competitive business environment. The phenomenon may be considered harmful insofar as it distorts the location of business and trade, erodes the tax base of other countries (also referred to as contributing to the “race to the bottom”) and undermines the fairness, neutrality and broad social acceptance of tax systems generally. 
+ general anti-abuse rule (GAAR) || An anti-abuse measure, generally statute based, provide criteria of general application, i.e. not aimed at specific taxpayers or transactions, to combat situations of perceived tax avoidance. 
+ good governance in the tax area   || The EU has an established policy on good governance in tax matters  (greater transparency of tax systems, exchange of information and fair tax competition) aimed at tackling harmful tax competition and tax evasion (COM (2009) 201, 28/04/2009 and COM (2010) 163, 21/04/2010). It is not limited "tax havens" per se, but aims at improving good governance in the tax area in all countries. This policy has been implemented both by legislation (e.g. the Directive on Administrative Cooperation or the Savings Taxation Directive) and by soft law (e.g. the Code of Conduct for Business Taxation). Beyond the EU, the Commission introduces clause on good tax governance (promoting transparency, exchange of information and transparency)   in relevant agreements between the EU and third countries. 
+ hybrid mismatch arrangements || Instrument with economic characteristics that are inconsistent, in whole or in part, with the classification implied by their legal form. Hybrid financial arrangement normally contains elements from equity, debt and/or derivatives, the advantages of which they seek to combine in the same instrument. In a cross-border situation, this normally creates a mismatch in the tax characterization and treatment of the income by the various tax jurisdictions involved. 
+ indirect tax || Commonly accepted (if not comprehensive) distinction may be made on the basis of whether the tax is a tax on income (including capital gains and net worth) (direct) or on consumption (indirect). Indirect taxes are considered to be one of the oldest sources of government revenue. Examples of taxes generally regarded as indirect include value added tax, sales tax, excise duties, stamp duty, services tax, registration duty and transaction tax. 
+ Interest and Royalty Directive || Way of referring to Directive 2003/49/EC on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States (26 June 2003), which aims to eliminate double taxation of cross-border flows of interest and royalties within the internal market between associated companies, as well as cross-border interest and royalty payments made to or by permanent establishments. 
+ international agreed standards of transparency and information exchange || The Global Forum on transparency and exchange of information has been instrumental in, inter alia, the development of standards of transparency and exchange of information through the publication of the Model Agreement on Exchange of Information for Tax Purposes in 2002. 
+ hybrid entities   || Generally, an entity that is characterized as transparent for tax purposes (e.g. as a partnership) in one jurisdiction and non-transparent (e.g. as a corporation) in another jurisdiction. In some cases, an entity is a hybrid when it is treated from the point of view of a particular jurisdiction as transparent in that jurisdiction and as non-transparent in the other jurisdiction. This is sometimes referred to as a regular hybrid. In contrast, an entity is a reverse hybrid when it is treated from the point of view of a particular jurisdiction as non-transparent and as transparent in the other. A hybrid entity is therefore also always a reverse hybrid, the difference depending on whether the classification is being made from the point of view of the jurisdiction treating the entity as transparent (hybrid) or non-transparent (reverse hybrid).A loan the return on which (typically interest) is dependent on the profits of the borrower. This loan with economic characteristics that are inconsistent, in whole or in part, with the classification implied by their legal form. This loan contains elements from equity, debt and/or derivatives, the advantages of which they seek to combine in the same instrument. In a cross-border situation, this normally creates a mismatch in the tax characterization and treatment of the income by the various tax jurisdictions involved. 
+ hybrid, profit participating loan || A loan the return on which (typically interest) is dependent on the profits of the borrower. It normally contains elements from equity and debt. In a cross-border situation, this normally creates a mismatch in the tax characterization and treatment of the income by the various tax jurisdictions involved. 
+ non-resident || Tax laws tend to define the concept of residence, leaving a non-resident to be defined by implication as one who does not satisfy the criteria for residence. Residence refers to a person’s legal status in relation to a particular country such as in general to justify subjecting that person to taxation on their worldwide income. In the case of individuals such status is generally determined on the basis of facts and circumstances, in particular by reference to the degree of personal attachment with the country concerned, e.g. the number of days spent in the country, the existence of personal or economic ties with the country, etc. In the case of persons other than individuals there are two common approaches, one based on formal criteria, such as the place of incorporation or registration, and the other on substantive criteria, such as the location of the place of management, central management and control, central administration, place of effective management, head office, or principal place of business. Many countries apply both approaches so that, e.g. a company will be resident if it is either incorporated or effectively managed in the country concerned. Residence as used in double taxation conventions is typically based on the domestic concept of residence as used by the contracting states, at least insofar as this gives rise to comprehensive taxation (or “full liability to tax”) and is based on criteria such as domicile, residence, place of management, etc. 
+   OECD Forum on Harmful Tax Practices || Following a report in 1998 ("Harmful Tax Competition: An Emerging Global Issue") the OECD (Organisation for Economic Cooperation and Development) created a special forum, "Forum on Harmful Tax Practices". To end harmful tax practices the work of the Forum has focussed on three areas: Harmful tax practices in Member Countries, Tax havens, Involving non-OECD economies. The Forum has produced three progress reports. Furthermore, together with cooperative tax havens the Forum has produced a "Model Tax Agreement on Exchange of Information in Tax Matters".   
+ OECD Global Forum on transparency and information exchange || The Global Forum has been the multilateral framework within which work in the area transparency and exchange of information has been carried out by both OECD and non-OECD economies since 2000. The Global Forum has been instrumental in, inter alia, the development of standards of transparency and exchange of information through the publication of the Model Agreement on Exchange of Information for Tax Purposes in 2002. The Global Forum has, since 2006, produced an annual assessment of the legal and administrative framework for transparency and exchange of information in over 80 jurisdictions. 
+ Parent & Subsidiary Directive || Popular way of referring to the 1990 EU Directive (90/435/EEC) that aims to provide a common system of taxation between parent and subsidiary companies within the European Union. The overriding objective is to remove restrictions, distortions, etc., which would interfere with the establishment and effective functioning of the common market. The Directive provides for (in general) a zero withholding tax on cross-border dividend distributions between EU subsidiaries and their EU parents, and an exemption or indirect tax credit in respect of the receipt of such dividends. 
+ Savings Taxation Directive || Popular way of referring to the 2003 EC Directive (2003/48/EC), which aims to enable savings income in the form of interest payments made in one Member State to individuals resident in another Member State to be made subject to effective taxation in the latter state. This aim is to be achieved by a system of information exchange with a transitional period during which certain Member States can opt for withholding tax. 
+ shifting of profits and income into other jurisdictions || Popular expression referring to the practice of the deliberate manipulation of prices charged between related parties based in different jurisdictions or between the head office of a company and a foreign permanent establishment with a view to allocating an excessive part of the combined profits in the jurisdiction or jurisdictions having the lowest effective tax rates. Transfer pricing principles may be applied to counteract the desired results 
+ simulation/sham concept   || A transaction is entered into by parties but not adhered to by them because another transaction, which is adhered to, alters or negates the first transaction. 
+ single taxation   || Being taxed at least once in one country   
+ substance-over-form principle   || The law is formally complied with but there is a lack of substance supporting the transaction/restructuring so that the tax authorities can disregard its form; 
+ Swedish interest rules || Existing interest deduction limitation rules in Swedish tax law as a measure aimed at further protecting the Swedish tax base. 
+ tax avoidance   || A term that is difficult to define but which is generally used to describe the arrangement of a taxpayer's affairs that is intended to reduce his tax liability and that although the arrangement could be strictly legal it is usually in contradiction with the intent of the law it purports to follow. (OECD Glossary of Tax Terms) 
+ tax carve-out provision || In general a tax carve-out refers to a provision in an agreement that specifically excludes application of the agreement or part thereof to tax matters. Such clauses are typically found in international agreements, for example in the context of most-favoured-nation treatment that is thus limited to non-tax matters. 
+ tax compliance || The procedural and administrative actions needed to satisfy a taxpayer‘s obligations under the applicable tax rules. 
+ tax evasion   || Generally comprises illegal arrangements where liability to tax is hidden or ignored, i.e. the taxpayer pays less tax than he is legally obligated to pay by hiding income or information from the tax authorities. 
+ tax fraud   || A form of deliberate evasion of tax which is generally punishable under criminal law. The term includes situations in which deliberately false statements are submitted or fake documents are produced. 
+ tax havens, also sometimes referred to as 'non-cooperative jurisdictions'   || Commonly understood to be jurisdictions which are able to finance their public services with no or nominal income taxes and offer themselves as places to be used by non-residents to escape taxation in their country of residence. The OECD has identified three typical 'confirming' features of a tax haven: (i) lack of effective exchange of information, (ii) lack of transparency, and (iii) no requirement for substantial activities. In addition they often offer preferential tax treatment to non-residents in order to attract investment from other countries. Tax havens therefore compete unfairly and make it difficult for 'non' tax havens to collect a fair amount of taxation from their residents. 
+ tax loss restrictions || A restriction placed round certain losses in order to isolate them for tax purposes. For example, losses arising in one category may be ring fenced from profits in another and accordingly cannot be set off against those profits. 
+ tax structures || The tax structure of a country refers to the relative importance of the taxes levied in that country in terms of their incidence and revenue produced. For example, a country that levies a large number of commodity and sales taxes, and that has an income tax with thresholds that exempt the vast majority of the population, has a predominantly indirect tax structure.     
+ taxpayer charter || Document established by national authorities and detailing both (i) the rights of taxpayers (e.g. rights to assistance, equality of treatment, privacy and confidentiality, appeal, independent review of disputes with the tax authorities…) and (ii) their obligations with regards to taxation and tax authorities 
+ theoretical VAT liability || The net amount of VAT that the tax authority of a territory should collect in given year, calculated as the product of final consumption expenditure and the applicable VAT rate. Adjustments are applied e.g. for cross-border shopping. Theoretical VAT liability takes into account exemptions, reduced rates etc. 
+ thin capitalisation rules || A company said to be thinly capitalised when its capital is made up of a much greater proportion of debt than equity, i.e. its gearing, or leverage, is too high. Some tax systems simply disallow interest deductions above a certain level from all sources when the company is considered to be too highly geared under applicable tax regulations.   
+ transfer pricing   || Transfer pricing is the area of tax law and economics that is concerned with ensuring that prices charged between associated enterprises for the transfer of goods, services and intangible property accord with the arm’s length principle. Transfer pricing principles may also be applied in the context of transactions – or dealings – between different parts of a single enterprise, e.g. between a head office and permanent establishment or between different permanent establishments of the same enterprise. Rules and procedures applicable to transfer pricing are often found in the domestic law of many countries. In many cases these reflect the OECD Transfer Pricing Guidelines. 
+ transparency || The term transparency is used to describe certain features of a tax system, in particular with regard to its administrative practices. It has been said to include two elements: clear publication of the applicable rules such that they may be invoked by taxpayers against the tax authorities, and the availability to tax authorities of other countries of details of their application in practice. A lack of transparency may manifest itself by, e.g. a general domestic fiscal environment such that the laws are not enforced in line with domestic law. 
+ triangular cases || Term used most commonly in the context of relieving double taxation where more than two (typically three) states are involved. For example, a resident of one state (State R) has a permanent establishment in another state (State P), which in turn derives income in the form of dividends, interest or royalties from a third state (State S), thus raising the issue (if double taxation treaties have been concluded between the states) which tax treaty should be applied to relieve double taxation in State S. Triangular cases also arise in the context of imputation systems where shareholders from one country receive dividends from a company resident in another country where the company derives income from the shareholder’s country of residence (e.g. through a permanent establishment or a subsidiary). Various tax planning arrangements have been devised for overcoming problems relating to the granting of imputation credits in such cases, and various techniques are also available to governments wishing to provide relief (sometimes referred to as triangular tax relief). 
+ VAT gap || Amount of VAT not collected due to fraud, legitimate avoidance, errors, bankruptcies 
+ VAT quick reaction mechanism || A proposal for a Quick Reaction Mechanism (QRM) was adopted by the Commission on 31st of July 2012. Under the QRM, a Member State faced with a serious case of sudden and massive VAT fraud would be able to implement certain emergency measures, in a way which they are currently not allowed to under VAT legislation. In this context, the proposal provides that Member States would be able to apply, within the space of a month, a "reverse charge mechanism" which makes the recipient rather than the supplier of the goods or services liable for VAT. This would significantly improve their chances of effectively tackling complex fraud schemes, such as carrousel fraud, and of reducing otherwise irreparable financial losses. In order to deal with possible new forms of fraud in the future, it is also foreseen that other anti-fraud measures could be authorised and established under the QRM.   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+   ||   
+ANNEX 3
+ || EUROPEAN COMMISSION DIRECTORATE-GENERAL TAXATION AND CUSTOMS UNION   Direct taxation, Tax Coordination, Economic Analysis and Evaluation Company Taxation Initiatives   
+                                                                                                                      
+Report of Meeting
+1. Meeting                  Fiscalis Seminar 
+2. Subjects                  Non-cooperative
+jurisdictions, aggressive tax planning, tax fraud and tax evasion
+3. Date and Place       17th July 2012, Brussels
+4. Participants            Representatives
+of EU Member States (morning session)
+                                    Representatives
+of business, NGOs and academia (afternoon session)
+                                    DG
+TAXUD (D1, D2, C4)
+4. Objectives              Exchange of
+views and experience on the outline results of the public consultation on
+double non-taxation, on the Communication on concrete ways to improve the fight
+against tax fraud and tax evasion including in relation to third countries, and
+on existing measures, and possible future measures in relation to
+non-cooperative jurisdictions and aggressive tax planning.
+5. Results                   Several
+delegations actively participated in the discussion. In general, MS were supportive
+towards an EU coordinated approach to tackle non-cooperative jurisdictions,
+aggressive tax planning, tax fraud and tax evasion although some of them would
+prefer national measures (having due consideration to the principles of subsidiarity
+and proportionality). 
+                                    Stakeholders
+in the afternoon session also reacted positively on an EU coordinated approach
+but they stressed that any measure newly introduced had to replace the current
+one in order not to increase administrative burden and not to effect competition.
+
+6. Some more general comments:    
+·              
+Participants in both sessions emphasised that
+actions should be coordinated with other international fora in order to create
+synergies and to avoid any overlaps.
+·              
+Participants in both session underlined that
+clear joint definitions (NCJs, ATP, tax avoidance, intentional and
+non-intentional double non-taxation) are needed. Some MS suggested a reference
+to the level of taxation. Amid it was stressed that COM should avoid including
+any of such definitions in non-tax legislation.
+·              
+Participants in both sessions also agreed that
+administrative cooperation and exchange of information between MS have to be
+improved. The idea was tabled to establish a network of coordination between MS
+to tackle NCJs and ATP.
+·              
+Participants in both sessions were also in
+favour of introducing voluntary disclosure mechanism. 
+·              
+Some NGOs pointed out that concerns of
+developing countries and impacts on them should be taken into account before
+any measures in developed countries are introduced. Some also raised doubts
+about strict conditionality of development aid.
+·              
+From the NGOs' point of view full country-by-country
+reporting (CBCR) could be an appropriate measure whilst representative of
+business sector raised doubts about efficiency of such a measure.  
+·              
+As regards anti-abuse measures, concerns were
+expressed about their effectiveness given the Treaty rules. Some suggested that
+any EU anti-abuse measure should be supplementary to the national ones and not
+replace them. The business sector suggested focusing on other areas than GAAR. 
+
+·              
+Participants in both sessions welcomed all three
+initiatives of the Commission (Communication of 27 June on tax fraud and tax
+evasion, December Communication on tax havens and aggressive tax planning, and
+perspective of an Action Plan by year-end).
+ 
+7. Follow–up               The Commission
+asked for written comments before 17th August 2012, and for
+estimations on the quantitative impact of tax havens and aggressive tax
+planning. Some written contributions were sent but none on data or quantitative
+impact.
+                                    
+ANNEX 11
+Impact on SME (SME-test)
+ Consultation with SME representatives || See section 2.2. The public consultation on double non-taxation was opened to all taxpayers, including SME. SME representatives ‘UEAPME) were invited the seminar held on 17th July 2012 on non-cooperative jurisdictions aggressive tax planning, tax fraud and evasion.   
+ Preliminary assessment of businesses likely to be affected || The measures assessed are primarily directed to MS. They might indirectly affect businesses and individuals, since they are taxpayers. Those taxpayers currently "using" fraud and evasion schemes or sophisticated tax planning are currently paying less tax than those fully complying with MS’s tax rules. As a result of the measures envisaged, non-compliant taxpayers will in the future pay more taxes than they do currently. This should conversely result in fairer tax systems and possibly a reduction in tax rates if the full amount of tax due is collected. There is no indication that SME would be specifically affected by the measures, since such elaborated schemes based on international schemas are less likely to involve SME than large enterprises. SME should, therefore, be among those taxpayers that are more likely to benefit indirectly from fairer tax systems. Simpler common EU approaches should reduce compliance costs for all companies, including SMEs. 
+ Measurement of the impact on SMEs || At this stage of the assessment, it is difficult to assess the quantitative impact of the initiative on economic operators. However, a qualitative assessment suggests, for the reasons outlined above, that SMEs will "suffer" less from the increase in tax as they are less likely to use such schemes, but benefit more from any reduction in compliance cost due to simplification. Work in the Joint Transfer Pricing Forum on SMEs confirms that SMEs tend to have fewer complex problems but suffer disproportionately from excessively complex compliance procedures. 
+ Assess alternative options and mitigating measures || The conclusion of the impact assessment contains no indication that the selected options might result in a disproportionate burden for SMEs as compared to the current situation. Therefore, there is no need for SME specific measures. 
+ANNEX
+2
+Discussion
+Paper on possible future measures against non-cooperative jurisdictions and aggressive
+tax planning and a possible strategy at EU level – Seminar July 17 2012
+The challenges
+raised by non-cooperative tax jurisdictions and aggressive tax planning need to
+be tackled urgently. In addition the European Council called on the Council and
+the Commission on the 2nd March 2012 to develop concrete ways to improve the
+fight against tax fraud and tax evasion, including in relation to third countries
+and to report by June 2012.
+The Commission’s
+response is the Communication[1]
+adopted on 27th June 2012, which deals more specifically with concrete
+ways to improve the fight against tax fraud and tax evasion. The Commission also
+announced that it would come forward later this year with an action plan on
+these suggestions and an initiative on tax havens and aggressive tax planning.
+In order to
+assist in the preparation of this initiative, the Commission is holding this seminar
+in order to gather the views of Member States and stakeholders on possible
+measures.
+Issues
+to be discussed with the Member States and interested Parties
+
+1.         
+Issue 1:  Challenges to be addressed
+
+Problem description
+EU Member States lose both individual and corporate income tax
+revenue from the shifting of profits and income into low-tax countries. The
+revenue losses from this tax avoidance and evasion are difficult to estimate,
+but some have suggested that the annual cost of offshore tax abuses may be
+around $100 billion per year. 
+Whatever the precise
+amount of such losses, their importance contributes to an unfavourable tax
+environment for both MS and taxpayers. Indeed, the main challenges currently
+being faced are:
+-       
+the erosion of tax bases because of (national
+and international) tax avoidance  and evasion and its economic consequences.
+Losses in EU MS’ tax revenues cause undesired shifts of part of the tax burden
+to less mobile tax bases, such as labour, property and consumption, while international
+tax avoidance is facilitated by  the use of non-cooperative jurisdictions and
+schemes abusing MS’s tax systems; 
+-       
+increasing administrative costs and compliance
+burdens on tax authorities and taxpayers may lead to discouraging compliance by
+all taxpayers. Effectiveness of anti-abuse measures is also affected by free
+movement within the EU and with third countries;
+-       
+undermining the integrity and fairness of tax
+structures;
+-       
+distorting financial and, indirectly, real
+investment flows.
+Possible solutions
+ A possible
+solution is to aim at building an EU favourable tax environment (for MS,
+taxpayers, and investors) where on the one hand erosion of tax bases would be
+efficiently tackled (within the EU and in relation to third countries) and on
+the other hand confidence of taxpayers would be enhanced (i.e. by stable tax
+policies, and if possible moderate levels of taxation).
+Question 1: 
+a) do
+participants agree that the main current challenges have been correctly
+identified? Should any others be mentioned?
+b) do
+participants agree that an EU solution is favourable to a series of individual
+national solutions? What other approaches could be considered?
+
+2.         
+Issue 2: third countries dimension
+
+Problem description
+International
+tax avoidance is facilitated by schemes abusing MS’ tax systems and by the use
+of non-cooperative tax jurisdictions. MS react individually with measures at
+national level, adopted by each country according to its own criteria. Moreover, EU MS and institutions currently
+use a number of different measures that could be seen as incentives or defensive
+measures towards third countries. However these individual or specific actions often
+seem to have limited effectiveness. 
+Possible solutions
+a)
+Identification of cooperative and non-cooperative jurisdictions
+ A coordinated
+approach could be developed within the EU towards non-cooperative jurisdictions
+so as to increase the effectiveness of defensive measures. This could include
+adopting at EU level a definition of non-cooperative jurisdictions, which could
+be based on how third countries implement the principles of good governance in
+the tax area (transparency, exchange of information and fair tax competition),
+and could be used by both EU MS and EU institutions.
+b) Toolbox of
+incentives and defensive measures
+The Commission
+services would like to assess a toolbox of incentives and defensive measures to
+be used by MS and EU institutions according to their respective competences in
+order to better convince third countries to cooperate in the tax area with EU
+MS.
+Such toolbox could
+cover a range of measures among which, for instance: 
+-        
+incentives for cooperative jurisdictions (i.e. jurisdictions
+implementing the criteria under a) above) could cover measures to be adopted:
+o       at national level (removal from national blacklists, conclusion of
+double tax conventions (DTC), twinning programmes, ad hoc detachment of experts
+to answer request from EU MS,…); 
+o       at EU level (possible enhancement of development aid for capacity
+building against strict conditionality,…).
+-        
+defensive measures against non-cooperative jurisdictions 
+could similarly be identified for possible adoption: 
+o       at national level (suspension/ termination of DTC, blacklisting,
+application of a uniform rate of withholding tax on payments to these countries
+reported by a third party, denial of deductions in respect of expense payments
+to payees resident in a non-cooperative jurisdiction, application of transfer
+pricing rules for transactions between non associated companies resident in a
+non- cooperative jurisdiction, penalties…);
+o       at EU level in the tax area (application of tax anti-abuse measures
+such as the CCCTB GAAR mentioned below, examining the possibility of an EU-wide
+framework whereby  MS introduce a targeted tax regime to balance an aggressive
+one from a third country, possible penalties defined at EU level,…) or in other
+areas (discouraging project financing in NCJ, discouraging EU companies from
+establishing related entities in NCJ, impact to be taken into account when
+concluding preferential economic relations such as free trade agreements or when
+granting financial support and technical assistance…).
+Question 2 : 
+a) Do participants believe that a joint action of EU MS could
+increase the effectiveness of defensive measures towards third countries?
+b) Do participants agree that an EU definition of non-cooperative
+jurisdictions could be based on the implementation of the principles of good
+governance in the tax area? Would participants see any other relevant (tax and
+non-tax) criteria to be taken into account? 
+c) Do participants agree with the suggested toolbox of incentives
+and defensive measures? What other measures could be taken into consideration?
+
+3.         
+Issue
+3: anti-abuse measures
+
+Problem description
+Anti-abuse
+measures adopted by MS may raise some issues of compliance with EU rules or
+other international rules when applied to third countries.
+Possible solutions
+Following the
+2007 EC Communication on anti-abuse measures in the area of direct taxation
+(COM(2007)785)[2]
+and in reaction to the case law of the Court of Justice of the EU, the Council
+adopted a resolution in 2010[3]
+on coordination of tax policies in anti-abuse measures. This mainly focused on
+CFC and thin capitalisation. In addition, article 80 of the proposed CCCTB Directive[4]
+contains a General anti-abuse rule stipulating that artificial transactions
+carried out for the sole purpose of avoiding taxation shall be ignored for the
+purposes of calculating the tax base. On this basis, the Commission could
+assist MS in designing anti-abuse measures in full compliance with EU and other
+international commitments.
+Question 3
+a) Could the introduction of an EU-wide general anti abuse rule such
+as the one provided for in the CCCTB improve the effectiveness of the fight
+against aggressive tax planning?
+b) How useful would it be for MS to design their anti-abuse measures
+on the basis of the one provided for in the CCCTB proposal? Could the
+Commission have a role in assisting them in designing such measures? 
+
+4.         
+Issue
+4: Double tax conventions
+
+Problem description
+EU businesses
+operate in a Global Economic Scenario and therefore aggressive tax planning is
+not limited to the Internal Market. Schemes of aggressive tax planning
+frequently imply the use (or abuse) of Double Tax Conventions (DTCs) which
+often leads to double non taxation.
+Possible solutions
+Some DTC between
+Member States contain a provision to ensure that double non taxation is avoided[5]. Such a type of approach could
+be, subject to agreement on article 1 of the revised Interest and Royalty
+proposal[6],
+be a possible solution for cross-border interest, royalty and licence fee
+payments between MS, and also between MS and third countries.
+Question 4
+a) Do you find the concept above suggested appropriate in order to
+tackle aggressive tax planning? If not, what are the strength and weaknesses of
+it? Do you have other suggestions?
+
+5.         
+Issue
+5: any other suggestions
+
+As pointed out
+the above concepts should not be seen as exhaustive. Other more general concepts
+could also be considered, for example:           
+Measures to increase transparency and to introduce enhanced reporting
+obligations or   
+final withholding taxes at source (in cases of many taxpayers and relatively
+low amounts).
+Question 5
+a) We would therefore ask you to provide any other suggestion you
+might have for ways in which non- cooperative jurisdictions and aggressive tax
+planning could be tackled?
+________________________
+[1] COM (2012) 351
+[2] http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2007:0785:FIN:en:PDF
+
+[3] Council Resolution, The coordination of the Controlled Foreign
+Corporation (CFC) and Thin Capitalisation rules within the European Union,
+10597/2010, 08.06.2010.
+[4]COM (2011) 121/4, 16.03.11,
+[5] e.g. the Protocol of the DTC between France and Italy point 15 provides that exemption shall only be granted if and to the extent such
+income is taxable in the other State.
+[6] Council directive on a common system of
+taxation applicable to interest and royalty payments made between associated
+companies of different Member States, COM(2011)714, 11.11.2011.
+ANNEX 4
+ || EUROPEAN COMMISSION DIRECTORATE-GENERAL TAXATION AND CUSTOMS UNION Direct taxation, Tax Coordination, Economic Analysis 
